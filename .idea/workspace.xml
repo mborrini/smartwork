@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56238e46-a102-4a8d-8028-02b28d06e1af" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/telegrambots_abilities_3_6_jar_with_dependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/data/img/config.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/data/img/database.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/data/img/disksave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/data/img/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/database/DataBaseCore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/database/DataBaseCursor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/database/DataBaseExecute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/database/DataBaseRestore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/database/DataBaseTestConnection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/application/ApplicationGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/application/CreateDataBaseGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/application/DataBaseConnectionInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/button/BaseButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/button/GuiButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/button/MenuButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/button/OpenFileButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/core/MainGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/core/MenuBarGui.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/core/RootPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/BooleanFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/CharFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/FileFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/FormFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/InterfaceFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/form/PasswordFields.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/submit/errrormanager/CheckErrorBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/submit/errrormanager/CheckErrorInterface.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/submit/errrormanager/CreateDataBaseCheckError.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/submit/errrormanager/ErrorinForms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/gui/submit/submit/SubmitForms.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/manager/DataBaseManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/manager/GUIManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/manager/GUIManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/manager/UserPasswordManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/process/NewProcessExecute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/process/RestoreExecute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/smartwork/tools/ImagesModifiers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smartwork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/manager/DataBaseManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/manager/DataBaseManager.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="DataBaseManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/manager/DataBaseManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GUIManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/manager/GUIManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="smartwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartwork" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smartwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="smartwork" type="b2602c69:ProjectViewProjectNode" />
+              <item name="smartwork" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="manager" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaKata/lib/telegrambots-abilities-3.6-jar-with-dependencies.jar!/" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="GUIManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="manager.GUIManager" />
+      <module name="smartwork" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="manager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GUIManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56238e46-a102-4a8d-8028-02b28d06e1af" name="Default" comment="" />
+      <created>1538816356700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538816356700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3298969" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980484" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/manager/DataBaseManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/core/ToolBar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/manager/GUIManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="54" column="44" selection-start-line="54" selection-start-column="44" selection-end-line="54" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>telegrambots-abilities-3.6-jar-with-dependencies</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
